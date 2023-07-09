@@ -1,0 +1,4 @@
+apiVersion: v2
+name: bigmac-chart
+version: "1.0"
+description: A Helm chart for bigmac application.
